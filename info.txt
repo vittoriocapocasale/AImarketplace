@@ -1,0 +1,3 @@
+in docker folder: sudo docker-compose up.
+
+Mongo is configured with an external volume, so if you move folder contents it may not work properly

@@ -1,0 +1,39 @@
+<mat-grid-list cols=2 >
+        <mat-grid-tile >
+            <mat-grid-tile-header>Sold Archives</mat-grid-tile-header>
+            <mat-list >
+                <mat-list-item *ngFor="let soldArchive of soldArchives">
+                    <div class="full">
+                        <p class="inline ellipse">
+                            <span>{{ soldArchive.tagName }} ({{soldArchive.soldTimes}})</span>
+                        </p>
+                        <button mat-icon-button class="inline floatRight" (click)="deleteSoldArchive(soldArchive)">
+                            <img width="30" src="./assets/deleteIcon.png"/>
+                        </button>
+                        <button mat-icon-button class="inline floatRight" (click)="downloadSoldArchive(soldArchive)">
+                            <img width="30" src="./assets/downloadIcon.png"/>
+                        </button>
+                    </div>
+                    <mat-divider></mat-divider>
+                </mat-list-item>
+            </mat-list>
+        </mat-grid-tile>
+        <mat-grid-tile>
+            <mat-grid-tile-header>Bought Archives</mat-grid-tile-header>
+            <mat-list >
+                <mat-list-item *ngFor="let boughtArchive of boughtArchives">
+                    <div class="full">
+                        <p class="inline ellipse">{{ boughtArchive.tagName }}</p>
+                        <button mat-icon-button class="inline floatRight" (click)="downloadBoughtArchive(boughtArchive)">
+                            <img width="30" src="./assets/downloadIcon.png"/>
+                        </button>
+                    </div>
+                    <mat-divider></mat-divider>
+                </mat-list-item>
+            </mat-list>
+        </mat-grid-tile>
+</mat-grid-list>
+<div class="credit">
+    <h2>Current credit: {{balance}}</h2>
+    <button mat-raised-button color="accent" (click)="getPaid()">COLLECT</button>
+</div>

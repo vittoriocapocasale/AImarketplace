@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="application:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb215b8a-6829-4fe2-a8fc-2bdebdfbdca3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/AIclient/target/" />
+    <ignored path="$PROJECT_DIR$/server/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="application" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="190" column="78" selection-start-line="190" selection-start-column="78" selection-end-line="190" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>maven-w</find>
+      <find>resource</find>
+      <find>springframework</find>
+      <find>appl</find>
+      <find>test</find>
+      <find>tes</find>
+      <find>spring-boo</find>
+      <find>spring-boot</find>
+      <find>compile</find>
+      <find>su</find>
+      <find>sure</find>
+      <find>spring-boot-starter-tes</find>
+      <find>starter-pa</find>
+      <find>ua</find>
+      <find>aa</find>
+      <find>aut</find>
+      <find>ca</find>
+      <find>maven-pl</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AIclient" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/repositories/UserMongoRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/security/CorsFilter.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/security/ResourceServerConfiguration.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/security/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/security/MvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/services/AccountingServiceClass.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/services/ClientServiceClass.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/services/PositionServiceClass.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/services/UserServiceClass.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/Archive.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/Client.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/DocumentArchive.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/Pair.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/Position.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/RegistrationClient.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/RegistrationUser.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/SingleArchive.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/SubdocumentArchive.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/TimeArea.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/User.java" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/user.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/url.service.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/token.interceptor.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/time-region.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/sell.guard.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/search.guard.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/purchase.guard.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/position.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/position.service.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/login.guard.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/identity.service.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/client.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/archive.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/user.guard.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/upform/upform.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/sell/sell.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/search/search.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/registration/registration.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/purchase/purchase.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/profile/profile.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/map/map.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/item/item.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/fuploader/fuploader.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/chart/chart.component.ts" />
+        <option value="$PROJECT_DIR$/AIclient/src/app/admin/admin.component.ts" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="application" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="application" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/AIclient/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/JSONStream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/agent-base/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/agentkeepalive/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ansi-align/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ansicolors/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ansistyles/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/archy/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/bin-links/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/boxen/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/builtins/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/byline/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/byte-size/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/call-limit/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/capture-stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ci-info/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cidr-regex/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cli-boxes/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cli-columns/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cli-table3/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cliui/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cliui/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cmd-shim/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/columnify/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/config-chain/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/configstore/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/copy-concurrently/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/copy-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/create-error-class/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/crypto-random-string/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/cyclist/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/debuglog/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/defaults/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/detect-newline/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/dezalgo/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/dot-prop/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/dotenv/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/editor/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/err-code/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/es6-promisify/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/figgy-pudding/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/find-npm-prefix/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/flush-write-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/fs-vacuum/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/fs-write-stream-atomic/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/fs-write-stream-atomic/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/gauge/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/genfun/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/gentle-fs/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/gentle-fs/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/global-dirs/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/http-cache-semantics/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/http-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/https-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/humanize-ms/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/import-lazy/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/init-package-json/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ip-regex/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-ci/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-cidr/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-installed-globally/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-npm/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-obj/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-redirect/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/json-parse-better-errors/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/jsonparse/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/latest-version/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lazy-property/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/libcipm/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/libnpmhook/node_modules/npm-registry-fetch/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/libnpmhook/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/libnpx/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lock-verify/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lockfile/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash._baseindexof/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash._baseuniq/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash._bindcallback/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash._cacheindexof/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash._createcache/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash._createset/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash._root/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash.restparam/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash.union/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash.uniq/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lodash.without/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/make-fetch-happen/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/meant/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/minipass/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/move-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/node-fetch-npm/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/node-gyp/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/node-gyp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/node-gyp/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/node-gyp/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-audit-report/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-cache-filename/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-install-checks/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-lifecycle/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-logical-tree/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-package-arg/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-pick-manifest/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-profile/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-client/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-client/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-client/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/cacache/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/figgy-pudding/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/make-fetch-happen/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/smart-buffer/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/socks-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/socks/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-registry-fetch/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npm-user-validate/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/opener/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/package-json/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/pacote/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/parallel-transform/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/promise-inflight/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/promise-retry/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/promise-retry/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/promzard/example/npm-init/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/promzard/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/proto-list/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/protoduck/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/pumpify/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/pumpify/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/qrcode-terminal/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/qw/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-cmd-shim/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-installed/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-installed/test/fixtures/extraneous-detected/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-installed/test/fixtures/extraneous-dev-dep/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-installed/test/fixtures/grandparent-peer-dev/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-installed/test/fixtures/grandparent-peer/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-installed/test/fixtures/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-package-json/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read-package-tree/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/read/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/readdir-scoped-modules/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/registry-auth-token/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/registry-url/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/run-queue/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/semver-diff/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/sha/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/slide/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/smart-buffer/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/socks-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/socks/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/sorted-object/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/sorted-union-stream/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/sorted-union-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/sorted-union-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/sorted-union-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/sorted-union-stream/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/stream-each/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/stream-iterate/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/string-width/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/stringify-package/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/tar/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/term-size/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/text-table/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/tiny-relative-date/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/uid-number/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/umask/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/unique-filename/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/unique-slug/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/unique-string/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/unzip-response/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/update-notifier/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/util-extend/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/validate-npm-package-name/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/wcwidth/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/wide-align/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/widest-line/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/worker-farm/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/write-file-atomic/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/xdg-basedir/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/yargs/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/node/node_modules/npm/package.json" />
+      <path value="$PROJECT_DIR$/AIclient/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="687" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.48735633" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/AIclient/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AIclient/src/app" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/server/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/server/src/main/java/ai/marketplace/server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.30">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ai.marketplace.server.ServerApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 8.5.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="application:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_30_application" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="application:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8.5.30" />
+      <item itemvalue="Spring Boot.ServerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb215b8a-6829-4fe2-a8fc-2bdebdfbdca3" name="Default" comment="" />
+      <created>1568664967449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568664967449</updated>
+      <workItem from="1568664972182" duration="9566000" />
+      <workItem from="1569429041023" duration="21162000" />
+      <workItem from="1569455836089" duration="19425000" />
+      <workItem from="1569547906924" duration="3342000" />
+      <workItem from="1569597485640" duration="11572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65067000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5013835" side_tool="true" visible="true" weight="0.29067245" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="1" visible="true" weight="0.20586608" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32982844" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" weight="0.29067245" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4997233" weight="0.329718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.2108467" />
+      <window_info anchor="right" id="Bean Validation" order="7" weight="0.32982844" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="2" sideWeight="0.50161815" side_tool="true" weight="0.24958494" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/Archive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/RegistrationUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/SingleArchive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="94" selection-start-line="3" selection-start-column="94" selection-end-line="3" selection-end-column="94" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/SubdocumentArchive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/TimeArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/user.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/RegistrationClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/structures/DocumentArchive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/token.interceptor.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/url.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/time-region.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/search.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/sell.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/position.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/position.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/position.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/purchase.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/login.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/identity.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2236">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/user.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/upform/upform.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="132" selection-start-line="30" selection-start-column="132" selection-end-line="30" selection-end-column="132" />
+          <folding>
+            <element signature="e#0#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/sell/sell.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/search/search.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="156" column="11" lean-forward="true" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/sell/sell.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/client.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/archive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/purchase/purchase.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/profile/profile.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/map/map.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="109" column="57" selection-start-line="109" selection-start-column="57" selection-end-line="109" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/item/item.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/fuploader/fuploader.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/chart/chart.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/admin/admin.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/security/ResourceServerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIclient/src/app/registration/registration.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/ai/marketplace/server/repositories/PositionMongoRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="190" column="78" selection-start-line="190" selection-start-column="78" selection-end-line="190" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="jpa-descriptors" />
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>server:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48735633" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (server)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48735633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48735633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48735633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/server" />
+    <option value="spring-boot:run" />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<mat-toolbar>
+    <mat-toolbar-row>
+        <a (click)="showSideNav()"> 
+            <img width="40" src="./assets/menuIcon.png"/>
+          </a>
+          <span><h1>{{ title }}</h1></span>
+    </mat-toolbar-row>
+  </mat-toolbar>
+<mat-sidenav-container>
+    <mat-sidenav #sidenav mode="over" [(opened)]="open" role="navigation" background="primary" background-co>
+            <mat-nav-list>
+                <a mat-list-item routerLink="/"><span>Home</span></a>
+                <a mat-list-item routerLink="/registration"><span>Register</span></a>
+                <a mat-list-item *ngIf="!userAdminLogged" routerLink="/login"><span>Login</span></a>
+                <a mat-list-item *ngIf="userLogged" routerLink="/search"><span>Search</span></a>
+                <a mat-list-item *ngIf="userAdminLogged" routerLink="/login/{{role}}/{{userId}}"><span>Profile</span></a>
+                <a mat-list-item *ngIf="userLogged" routerLink="/login/{{role}}/{{userId}}/sell"><span>Publish</span></a>
+                <a mat-list-item *ngIf="userAdminLogged" (click)="logout()"><span>Logout</span></a>
+            </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content>
+        <section>
+            <router-outlet></router-outlet>
+        </section>
+    </mat-sidenav-content>
+  </mat-sidenav-container>

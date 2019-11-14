@@ -1,0 +1,21 @@
+div {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+button {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    white-space: pre-wrap !important;
+}
+
+mat-grid-list {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+span {
+    color:  #1976d2 
+}

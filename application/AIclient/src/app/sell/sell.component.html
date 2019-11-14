@@ -1,0 +1,25 @@
+<mat-card>
+    <mat-card-title>Publish an Archive</mat-card-title>
+        <mat-card-content>
+            <form [formGroup]="form" (ngSubmit)="sell()">
+                <p>
+                    <mat-form-field>
+                        <input type="text" matInput placeholder="Archive Name" formControlName="tagName">
+                    </mat-form-field>
+                </p>
+                <p> 
+                    <mat-form-field>
+                        <input type="number" matInput placeholder= "Price" formControlName="price">
+                    </mat-form-field>    
+                </p>
+                <p>
+                        <app-fuploader (file$)="fileReady($event)"></app-fuploader>
+                </p>
+                <p *ngIf="sellY" class="success">Archive published!</p>
+                <p *ngIf="sellN" class="error">Something went wrong</p>
+                <div class="button">
+                    <button mat-raised-button color="accent" calss="button" type="submit">PUBLISH</button>
+                </div>
+        </form>
+    </mat-card-content>
+</mat-card>

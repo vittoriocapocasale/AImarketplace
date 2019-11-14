@@ -1,0 +1,29 @@
+.mat-sidenav {
+  color: #ffffff;
+  background:#1976d2;
+}
+
+.mat-toolbar {
+  color: #ffffff;
+  background-color:#1976d2;
+}
+
+::ng-deep .mat-sidenav-container{
+  height:100%; /* or 100% */
+}
+
+.mat-nav-list{
+  text-align:center;
+}
+span{
+  color: #ffffff;
+  margin:auto;
+}
+
+mat-sidenav-container{
+  position: fixed;
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+  min-width: 100%;
+}

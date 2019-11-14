@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+  html, body {
+    margin:0px;
+    padding:0px;
+  }
+
+
+  .error {
+    padding: 2px;
+    width: 100%;
+    color: white;
+    background-color: red;
+  }
+
+  .success {
+    padding: 2px;
+    width: 100%;
+    color: white;
+    background-color: green;
+  }
+
+  .info {
+    padding: 2px;
+    width: 100%;
+    color: white;
+    background-color: #1976d2
+  }
+
+  .ellipse{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

@@ -1,0 +1,43 @@
+
+
+.credit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 90%;
+    width: 100%;
+}
+
+h2 {
+    margin-right: 50px;
+}
+
+mat-list{
+    margin-top:6%;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    max-height: 100%;
+}
+
+mat-grid-tile-header{
+    max-height: 4%;
+    padding:1%;
+    height: 4%;
+}
+mat-grid-tile {
+    max-height: 80%;
+}
+.floatRight{
+    float: right;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.full{
+    height: 100%;
+    width: 100%;
+}

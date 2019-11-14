@@ -1,0 +1,11 @@
+<div>
+    <p>{{phrase}}</p>
+    <button mat-icon-button *ngIf="downloadButtonEnabled" (click)="downloadClicked()">
+        <mat-icon>
+                <img width="40" src="../assets/downloadIcon.png"/>
+        </mat-icon>
+    </button>
+    <button mat-icon-button *ngIf="deleteButtonEnabled" (click)="deleteClicked()">
+        <img width="40" src="../assets/deleteIcon.png"/>
+    </button>
+</div>

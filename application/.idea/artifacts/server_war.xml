@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="server:war">
+    <output-path>$PROJECT_DIR$/server/target</output-path>
+    <root id="archive" name="server_war.jar">
+      <element id="artifact" artifact-name="server:war exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/server/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

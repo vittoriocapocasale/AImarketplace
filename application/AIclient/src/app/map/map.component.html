@@ -1,0 +1,13 @@
+<div class="map"
+     leaflet 
+     [leafletOptions]="options"
+     [(leafletZoom)]="zoom"
+     [(leafletCenter)]="center"
+     [leafletMaxZoom]="maxZoom"
+     [leafletMinZoom]="minZoom"
+     (leafletMapReady)="onMapReady($event)"
+     (leafletClick)="mouseClicked($event)"
+     (leafletMapMoveEnd)="publishBounds($event)"
+     (leafletMapZoomEnd)="publishBounds($event)"
+     >
+</div>

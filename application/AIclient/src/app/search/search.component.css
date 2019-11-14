@@ -1,0 +1,118 @@
+.parallelDiv{
+    display: inline-block;
+    height: 500px;
+
+}
+
+.rightDiv{
+    position: absolute;
+    right: 0;
+}
+
+.parentDiv{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.childRight {
+    height: 35%;
+    width: 30%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.childLeft{
+    height: 60%;
+    width: 70%;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+
+.childBottom{
+    position: absolute;
+    bottom: 0;
+}
+
+
+.whiteColor{
+    color:white
+}
+
+.childBottomLeft{
+    width: 100%;
+    position: absolute;
+    top:60%;
+    left:0;
+    height: 10%;
+    max-height: 10% !important;
+}
+
+.childBottomRight{
+    width: 30%;
+    position: absolute;
+    top:45%;
+    right:0;
+}
+
+.inlineButtons{
+    width: 50%;
+    display: inline-block;
+    position: relative;
+    top:0%;
+    max-height: 25%;
+}
+
+.blueBack{
+    background: #1976d2;
+    margin-top:1px;
+    margin-bottom: 0%;
+    max-height: 10%;
+    text-align: center;
+}
+
+
+
+.centeredText{
+    text-align: center;
+}
+
+.smallMargin{
+    border: 1px solid #1976d2;
+    padding: 5px;
+}
+
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom{
+    position: fixed;
+    top: 80%;
+    width: 100%;   
+    max-height: 20%; 
+}
+
+.leftButton{
+    margin-right:5%; 
+    background-color: #1976d2;
+}
+
+.rightButton{
+    margin-left: 5%;
+}
+
+mat-selection-list {
+    overflow: auto;
+    max-height: 90%;
+}
+
+.fullSize{
+    width: 100%;
+    height: 100%;
+}

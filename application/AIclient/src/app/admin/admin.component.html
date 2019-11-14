@@ -1,0 +1,8 @@
+<mat-grid-list cols=2>
+        <mat-grid-tile>
+                <app-upform formTitle="Admin Registration" usernamePH="Username"  passwordPH="Password" [goodCredentials]="goodAdminCredentials" [invalidCredentials]="wrongAdminCredentials" (credentials$)="registerAdmin($event)"></app-upform>
+        </mat-grid-tile>
+        <mat-grid-tile>
+                <app-upform formTitle="Client Registration" usernamePH="Client id" passwordPH="Client secret" [goodCredentials]="goodClientCredentials" [invalidCredentials]="wrongClientCredentials" (credentials$)="registerClient($event)"></app-upform>
+        </mat-grid-tile>
+</mat-grid-list>
